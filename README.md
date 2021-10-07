@@ -2,3 +2,4 @@
 For training and testing myself 
 <br>
 I am just at the beginning of my IT career and do my first steps on web-coding
+<br> Let this doc will be my "dairy"
